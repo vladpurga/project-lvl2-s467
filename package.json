@@ -1,7 +1,7 @@
 {
-  "name": "gendiff",
+  "name": "vp-learn-gendiff",
   "version": "0.0.1",
-  "description": "Compares two configuration files and shows a difference",
+  "description": "Command line utility compares two configuration files and shows a difference",
   "main": "dist/index.js",
   "bin": {
     "gendiff": "dist/bin/gendiff.js"
@@ -32,6 +32,7 @@
   "homepage": "https://github.com/vladpurga/project-lvl2-s467#readme",
   "dependencies": {
     "@babel/plugin-proposal-pipeline-operator": "^7.3.2",
+    "commander": "^2.20.0",
     "gulp": "^4.0.0",
     "source-map-support": "^0.5.10"
   },
