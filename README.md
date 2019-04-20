@@ -1,7 +1,7 @@
 # gendiff
 
-[![Code Climate](https://codeclimate.com/github/vladpurga/project-lvl2-s476/badges/gpa.svg)](https://codeclimate.com/github/vladpurga/project-lvl2-s476)
-[![Build Status](https://travis-ci.org/vladpurga/project-lvl2-s476.svg?branch=master)](https://travis-ci.org/vladpurga/project-lvl2-s476)
+[![Code Climate](https://codeclimate.com/github/vladpurga/project-lvl2-s467/badges/gpa.svg)](https://codeclimate.com/github/vladpurga/project-lvl2-s467)
+[![Build Status](https://travis-ci.org/vladpurga/project-lvl2-s467.svg?branch=master)](https://travis-ci.org/vladpurga/project-lvl2-s467)
 
 
 ## Setup
